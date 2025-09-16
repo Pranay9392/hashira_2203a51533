@@ -1,7 +1,5 @@
-Here’s the complete `README.md` in one block — you can copy and paste directly ✅
-
-````markdown
 # Hashira Polynomial Decoder
+````markdown
 
 This project is a Node.js implementation for decoding polynomial points and computing the **constant term (c)** of the polynomial.
 
@@ -74,3 +72,4 @@ Decoded Point -> x: 10, y: 220003896831595324801
 
 Do you also want me to add a **"Usage" section** showing how others can plug in their own test cases to compute constants?
 ```
+
