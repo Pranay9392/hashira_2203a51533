@@ -5,14 +5,14 @@ This project is a Node.js implementation for decoding polynomial points and comp
 
 ---
 
-## 📌 How It Works
+📌 How It Works
 - Given encoded points in different bases, the program:
   1. Decodes them into `(x, y)` coordinates.
   2. Uses these points to determine the constant term `c`.
 
 ---
 
-## ⚡ Installation
+⚡ Installation
 
 1. Clone the repository:
    ```sh
@@ -28,7 +28,7 @@ This project is a Node.js implementation for decoding polynomial points and comp
 
 ---
 
-## 🧪 Example Output
+🧪 Example Output
 
 When running `node index.js`, you should see results like below:
 
@@ -56,14 +56,14 @@ Decoded Point -> x: 10, y: 220003896831595324801
 
 ---
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 * **Node.js** (JavaScript runtime)
 * **BigInt** for handling very large numbers
 
 ---
 
-## ✨ Author
+✨ Author
 
 👤 **Pranay Aletti**
 [GitHub Profile](https://github.com/Pranay9392)
@@ -72,4 +72,5 @@ Decoded Point -> x: 10, y: 220003896831595324801
 
 Do you also want me to add a **"Usage" section** showing how others can plug in their own test cases to compute constants?
 ```
+
 
